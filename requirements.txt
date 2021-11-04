@@ -1,5 +1,5 @@
 jupyter_contrib_nbextensions
-hide_code==0.5.2
+hide_code==0.6.0
 ipywidgets==7.6.5
 ipysheet==0.5.0
 ipython_blocking==0.3.1
